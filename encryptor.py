@@ -127,3 +127,4 @@ df1 = tabel1(password)                                                          
 judul = input("masukkan judul penyimpanan: ")                                       #memasukkan judul penyimpanan kepada program
 keren = encryption1(df1, code, judul)                                               #mengeksripsi masukkan baca.txt dan mengeluarkan file output
 print('File Telah Enskripsi, Simpan Kode Mu Baik-Baik!')
+
